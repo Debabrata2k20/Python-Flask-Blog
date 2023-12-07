@@ -1,0 +1,11 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/python bytes",
+    "prod_uri": "mysql://root:@localhost/python bytes",
+    "fb_url": "facebook.com/python bytes",
+    "gmail.user": "19cse188.debabratasahu@giet.edu",
+    "gmail.password": "19cse188"
+  }
+}
